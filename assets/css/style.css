@@ -1460,7 +1460,7 @@ section {
   color: #fff;
 }
 
-.contact .php-email-form {
+/*.contact .php-email-form {
   width: 100%;
   border-top: 3px solid #47b2e4;
   border-bottom: 3px solid #47b2e4;
@@ -1583,7 +1583,7 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+}*/
 
 /*--------------------------------------------------------------
 # Breadcrumbs
